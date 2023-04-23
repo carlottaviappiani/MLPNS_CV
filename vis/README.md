@@ -1,5 +1,5 @@
 Il grafico originale che ho scelto è il seguente: 
-![alt text](https://github.com/carlottaviappiani/MLPNS_CViappiani/blob/2272b7a5174d3fe26c95321db31895d61cfd8518/vis/sovr.png)
+![alt text](https://github.com/carlottaviappiani/MLPNS_CViappiani/blob/2272b7a5174d3fe26c95321db31895d61cfd8518/vis/sovr.png)\
 Per contesto, è il confronto tra gli spettri di emissione normalizzati dell'amminoacido Triptofano (Trp) e Tirosina (Tyr) liberi in soluzione (curve tratteggiate) e all'interno dell'HSA(curve a tratto continuo), ottenuti eccitando rispettivamente sul picco di assorbimento della Tyr e del Trp e su quello della Tyr.
 Ho realizzato questo grafico nel corso del I semestre di quest'anno (Biofisica Molecolare).
 I problemi che ho individuato e corretto in questo grafico sono:
